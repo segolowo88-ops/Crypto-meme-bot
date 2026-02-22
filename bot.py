@@ -39,7 +39,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ── Config ────────────────────────────────────────────────────────────────────
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8507056571:AAH3hOEm9bvfeZ6MuutdTNHB_ytQA0lBCAo")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8507056571:AAEbgrM4y9b12UzzR2dK0hinpjoSV4BAhaQ")
 
 generator = MemeGenerator()
 
